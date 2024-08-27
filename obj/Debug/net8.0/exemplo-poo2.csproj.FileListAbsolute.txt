@@ -1,0 +1,14 @@
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\bin\Debug\net8.0\exemplo-poo2.exe
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\bin\Debug\net8.0\exemplo-poo2.deps.json
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\bin\Debug\net8.0\exemplo-poo2.runtimeconfig.json
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\bin\Debug\net8.0\exemplo-poo2.dll
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\bin\Debug\net8.0\exemplo-poo2.pdb
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\obj\Debug\net8.0\exemplo-poo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\obj\Debug\net8.0\exemplo-poo2.AssemblyInfoInputs.cache
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\obj\Debug\net8.0\exemplo-poo2.AssemblyInfo.cs
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\obj\Debug\net8.0\exemplo-poo2.csproj.CoreCompileInputs.cache
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\obj\Debug\net8.0\exemplo-poo2.dll
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\obj\Debug\net8.0\refint\exemplo-poo2.dll
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\obj\Debug\net8.0\exemplo-poo2.pdb
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\obj\Debug\net8.0\exemplo-poo2.genruntimeconfig.cache
+C:\Repositorios\C#\C#-Dio\exemplo-poo2\obj\Debug\net8.0\ref\exemplo-poo2.dll
